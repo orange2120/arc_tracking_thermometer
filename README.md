@@ -1,4 +1,4 @@
-# ArcIoT-Automatic body tracking thermometer
+# ARCIoT-Automatic body tracking thermometer
 
 ## Introduction
 Automatic body tracking thermometer (ABTT) is a low-cost epidemic prevention auxiliary device based on ARCIoT board.
@@ -60,6 +60,6 @@ make
 
 
 ## References
-[OpenCV-Face-Recognition](https://github.com/Mjrovai/OpenCV-Face-Recognition)
-[Face-detection-Raspberry-Pi-32-64-bits](https://github.com/Qengineering/Face-detection-Raspberry-Pi-32-64-bits)
-[Infrared Array Sensor Grid-EYE](https://cdn.sparkfun.com/assets/4/1/c/0/1/Grid-EYE_Datasheet.pdf)
+[OpenCV-Face-Recognition](https://github.com/Mjrovai/OpenCV-Face-Recognition)  
+[Face-detection-Raspberry-Pi-32-64-bits](https://github.com/Qengineering/Face-detection-Raspberry-Pi-32-64-bits)  
+[Infrared Array Sensor Grid-EYE](https://cdn.sparkfun.com/assets/4/1/c/0/1/Grid-EYE_Datasheet.pdf)  
